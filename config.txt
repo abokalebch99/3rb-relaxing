@@ -1,0 +1,6 @@
+owner=473205611220303882
+prefix= re
+game=3rb Network .
+stayinchannel=true
+songinstatus=false
+token=NTY4ODA2NDU3NjM4NjQ5ODc2.XLncxQ.qLgyo4uEkUmVF20OovGjQNY-jks
